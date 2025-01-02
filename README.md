@@ -81,4 +81,4 @@ This project contains three main components:
 
 ## License
 
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is open-source and available under an **MIT License**. If you would like to contribute or modify the project, you can freely do so. However, you are responsible for checking the copyright laws and respecting intellectual property if you decide to deploy or distribute the project in any form.
